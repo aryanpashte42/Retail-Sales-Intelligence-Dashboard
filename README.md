@@ -152,4 +152,3 @@ Python • SQL • Power BI • Advanced Excel • Financial Modeling
 Linkedin: www.linkedin.com/in/aryan-pashte-5280swami
 Email: aryanpashte@gmail.com
 
-
