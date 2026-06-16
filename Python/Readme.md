@@ -1,1 +1,1 @@
-Python for the project
+Jupyter Notebook containing data cleaning and preparation workflow
